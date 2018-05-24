@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+
+    <string name="fui_progress_dialog_loading" translation_description="Loading text in dialog">Carregando…</string>
+    <string name="fui_sign_in_default" translation_description="Button text to sign in">Login</string>
+    <string name="fui_next_default" translation_description="Button text to continue">Avançar</string>
+    <string name="update_user">Atualizar profile</string>
+    <string name="title_activity_update_profile">Update_profile</string>
+</resources>
